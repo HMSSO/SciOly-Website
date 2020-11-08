@@ -1,6 +1,6 @@
 ---
 title: Hudson Middle School Science Olympiad
-layout: default
+layout: homepage
 ---
  {% include carousel.html height="50" unit="%" duration="7" %}
 <p><strong>Watch <a href="https://youtu.be/Y19-EAbRHOI">this video </a>for more information.</strong></p>
