@@ -231,11 +231,5 @@ One student will write a description of an object and how to build it, and then 
 </details>
 </div>
 <p>Event descriptions from SOINC </p>
-<h2>Pages</h2>
-<ul class="myposts">
-{% for post in site.posts %}
-<li><a href="{{ post.url }}">{{ post.title}}</a>
-</li>
-{% endfor %}
-</ul>
+
 {% include circle.html %}
