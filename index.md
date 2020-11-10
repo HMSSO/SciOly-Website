@@ -60,8 +60,7 @@ Participants will solve problems and analyze data or diagrams using their knowle
 <details>
 <summary> Ornithology </summary>
 
-<p>
-Participants will solve problems and analyze data or diagrams using their knowledge of the basic principles of genetics.
+<p>Participants will identify birds and answer questions about their life history, distribution, anatomy and physiology, reproduction, habitat characteristics, ecology, diet, behavior, conservation, and biogeography.
 </p>
 </details>
 <details>
