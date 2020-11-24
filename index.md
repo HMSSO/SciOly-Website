@@ -7,27 +7,27 @@ layout: homepage
 <p><strong>Please contact Dr. Renna at <a href="mailto:jrenna@uakron.edu">jrenna@uakron.edu</a> if you have any questions.</strong></p>
 <h2>Latest News</h2>
 <hr />
-
 <script src="//rss.bloople.net/?url=https%3A%2F%2Fscioly-blog.netlify.app%2Ffeed.xml&detail=20&limit=2&showtitle=false&type=js"></script>
 <noscript>
 <p>Your browser does not support JavaScript. Visit <a href="https://scioly-blog.netlify.app">scioly-blog.netlify.app</a> for news about HMS SciOly.</p>
 </noscript>
 <p style="text-align: right;"><a href="https://scioly-blog.netlify.app"> See more news </a></p>
+
 <h2> What is Science Olympiad? </h2>
 <hr />
 <p> Science Olympiad is an extracurricular activity where we learn about all forms of science. We compete against other teams, and the competitions are like track meets, with 23 different events. Events are in three major categories: build, test, and lab. Most events are done with a partner. Science Olympiad requires practice, determination, and preparation. </p>
+
 <h2> What are the practices like? </h2>
 <hr />
-<p>We meet every Monday from 6:00 to 8:00 P.M. Currently, all meetings are done virtually. Studying outside organized practices is encouraged.</p>
+<p>We meet every Monday from 6:00 to 8:00 P.M. Currently, all meetings are done virtually, except for build meetings. Studying outside organized practices is encouraged.</p>
+
 <h2>2020 modifications</h2>
 <hr>
 <p>This season, due to the novel Coronavirus, Science Olympiad has to make some changes. Competitions will be virtual, and build events will not occur at these competitions. However, we will still practice these events as part of a build team. In the list of events below, events with a strikethrough will not occur at competitions, and events with an asterisk have modifications. See the emailed PowerPoint for more information. </p>
 
 <h2>Events
  </h2>
-
 <!-- begin event descriptions -->
-
 <div>
 <hr />
 <h3> Life, Personal & Social Science
@@ -35,7 +35,6 @@ layout: homepage
 <details>
 <summary> Anatomy and Physiology
 </summary>
-
 <p>
 Participants will be assessed on their understanding of the anatomy and physiology for the human Skeletal, Muscular and Integumentary systems. This season, it will cover the Skeletal, Muscular, and Integumentary systems.
 </p>
