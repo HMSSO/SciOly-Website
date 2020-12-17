@@ -29,6 +29,11 @@ MIT License
 Copyright (c) 2020 by Mojtaba Seyedi (https://codepen.io/seyedi/pen/YXEqwB) 
 EDITED 2020 by Luke Metoki
 
+Components from Jekyll Codex
+---
+MIT License
+Copyright (c) 2020 Usecue BV
+
 Apache License
 ---
 Version 2.0, January 2004
