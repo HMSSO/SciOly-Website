@@ -8,11 +8,8 @@
 # Site settings
 title: HMS Science Olympiad
 email: scioly-website@metoki.anonaddy.me
-baseurl: "/SciOly-Website" # the subpath of your site, e.g. /blog
-url: "https://luke2m.github.io" # the base hostname & protocol for your site
-#Links
-url1: example.com
-name1: example
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 include: [_redirects]
