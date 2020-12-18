@@ -1,6 +1,10 @@
+License
+
+
 Copyright 2020 Luke Metoki
 All Rights Reserved (For now)
 An open source version without information will be released soon.
+
 Icons
 ---
 Font Awesome by Dave Gandy - http://fontawesome.io.
