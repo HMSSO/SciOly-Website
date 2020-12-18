@@ -1,9 +1,14 @@
 License
+---
 
 
 Copyright 2020 Luke Metoki
 All Rights Reserved (For now)
 An open source version without information will be released soon.
+
+Event dropdown text
+---
+Copyright 2021 Science Olympiad, Inc.
 
 Icons
 ---
