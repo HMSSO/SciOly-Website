@@ -2,7 +2,7 @@ License
 ---
 
 
-Copyright 2020 Luke Metoki
+Copyright 2020 by Luke Metoki &nbsp
 All Rights Reserved
 For the Open Source template, see https://github.com/luke2m/SciOly-Website-Template
 
