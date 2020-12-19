@@ -19,11 +19,11 @@ layout: homepage
 
 <h2> What are the practices like? </h2>
 <hr />
-<p>We meet every Monday from 6:00 to 8:00 P.M. Currently, all meetings are done virtually, except for build meetings. Studying outside organized practices is encouraged.</p>
+<p>We meet every Monday from 6:00 to 8:00 P.M. Currently, all meetings are done virtually. Build meetings have been cancelled except to record for competitions. Studying outside organized practices is encouraged.</p>
 
 <h2>2020 modifications</h2>
 <hr>
-<p>This season, due to the novel Coronavirus, Science Olympiad has to make some changes. Competitions will be virtual, and build events will not occur at these competitions. However, we will still practice these events as part of a build team. In the list of events below, events with a strikethrough will not occur at competitions, and events with an asterisk have modifications. See the emailed PowerPoint for more information. </p>
+<p>This season, due to the novel Coronavirus, Science Olympiad has to make some changes. Competitions will be virtual, and build events will not occur at these competitions. However, we will still practice these events as part of a build team if the situation improves. In the list of events below, events with a strikethrough will not occur at competitions, and events with an asterisk have modifications. See the emailed PowerPoint for more information. </p>
 
 <h2>Events
  </h2>
