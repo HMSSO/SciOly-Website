@@ -229,5 +229,32 @@ One student will write a description of an object and how to build it, and then 
 </details>
 </div>
 <p>Event descriptions from SOINC </p>
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.3.2/dist/confetti.browser.min.js"></script>
+<script>
+ var end = Date.now() + (1500);
+
+var colors = ['#000080', '#ffffff'];
+
+(function frame() {
+  confetti({
+    particleCount: 2,
+    angle: 60,
+    spread: 55,
+    origin: { x: 0 },
+    colors: colors
+  });
+  confetti({
+    particleCount: 2,
+    angle: 120,
+    spread: 55,
+    origin: { x: 1 },
+    colors: colors
+  });
+
+  if (Date.now() < end) {
+    requestAnimationFrame(frame);
+  }
+}());
+</script
 
 {% include circle.html %}
