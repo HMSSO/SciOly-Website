@@ -2,8 +2,12 @@ License
 ---
 
 
-Copyright 2020 by Luke Metoki &nbsp
+Copyright 2020-2021 by Luke Metoki 
+
+
 All Rights Reserved
+
+
 For the Open Source template, see https://github.com/luke2m/SciOly-Website-Template
 
 Event dropdown text
