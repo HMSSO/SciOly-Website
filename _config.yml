@@ -14,5 +14,5 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 markdown: kramdown
 include: 
 - _redirects
-- /users/~luke2m
+- users/~luke2m
 
