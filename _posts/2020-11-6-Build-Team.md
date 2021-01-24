@@ -1,0 +1,10 @@
+---
+published: true
+layout: post
+title: Build Team update
+---
+- There are five build-based events that would normally run this year. These events have been canceled.
+- The purpose of the middle school program is to foster a love of STEM and develop students for the high school program.
+- Therefore, we will still be placing students into build events and practicing all five of these events all season.
+- Some of these build events will be “trial” events at Invitationals, so our students will still have a chance to compete.
+- Practices are on Friday evenings and the weekends, and each member of the build team will also have 1 test event they will be participating in.
