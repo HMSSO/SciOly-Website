@@ -8,3 +8,5 @@ fields:
 - type: text
   name: layout
   label: layout
+pages:
+- _posts/westlake-invitational-results.md
