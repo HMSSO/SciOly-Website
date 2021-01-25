@@ -16,8 +16,8 @@ Congratulations to our Build Team, which averaged 10th place in all five buildin
 
 Thank you to all of our event mentors that continue to pour hours of time and effort into providing our students with an opportunity to learn and love science.  Thank you to the NEOHSTEM Alliance and Hudson Middle School Administration for their continued support!
 
-GO HUDSON!
----
+#### GO HUDSON!
+
 ### Medals
 
 1st Road Scholar:  Audra/Luke
