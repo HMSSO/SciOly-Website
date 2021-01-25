@@ -1,7 +1,7 @@
 ---
 title: Westlake Invitational Results
 layout: post
-date: 2020-01-11
+date: 2021-01-11
 
 ---
 What an amazing performance at Westlake this weekend!  Hudson Middle School brought home the hardware, winning **18** sets of medals, finishing **5th overall**, and placing **5th in the Super Team Rankings.**
