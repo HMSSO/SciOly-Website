@@ -1,4 +1,4 @@
 ---
-title: Pages
+title: Blog
 layout: home
 ---
