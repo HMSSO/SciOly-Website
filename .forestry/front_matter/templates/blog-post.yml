@@ -5,6 +5,15 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
+  description: Type “post” here if it isn’t added already.
 - type: text
   name: title
   label: title
+  description: Type a title here
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  description: Type your name for credit here,
