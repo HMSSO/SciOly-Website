@@ -17,3 +17,5 @@ fields:
     required: false
   label: Author
   description: Type your name for credit here,
+pages:
+- _posts/kenston-invitational-results.md
