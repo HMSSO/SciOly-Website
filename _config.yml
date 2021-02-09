@@ -12,5 +12,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hmsscioly.js.org" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
+github:
+  repo: HMSSO/SciOly-Website
+  branch: main
 include: 
 - _redirects
