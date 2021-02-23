@@ -38,7 +38,7 @@ The Mentor Invitational went even better, with Hudson earning 3rd place and meda
 
  
 
-Mentor Invitational
+## Mentor Invitational
 
 1st place: Experimental Design (Audra/Daniel/Ethan)
 
