@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cumberland Valley Eagle and Mentor Invitational Results
+---
 Congratulations again to the HMS Science Olympiad team!  Our Hudson students competed in the Cumberland Valley Eagle Invitational (Pennsylvania) on February 13th and the Mentor Invitational on February 20th.  There were 96 teams from 17 states in the Eagle Invitational and Hudson finished in 6th place!  Some of the highlights included a 1st place finish in Crave the Wave (Keven/Sherry) and 3rd place in Meteorology (Evan/Ethan).  In total the team brought home medals in 14 events.  Hudson had three teams in the field, finishing in 6th, 23rd, and 84th place.  What an outstanding performance.    
 
 The Mentor Invitational went even better, with Hudson earning 3rd place and medaling in 19 events including 1st place in Mousetrap Vehicle (Aanya/Kate), Road Scholar (Audra/Luke), and Experimental Design (Audra/Daniel/Ethan).  From a field of 53 teams, Hudson’s second team finished in 10th place and our third team, composed of students new to Science Olympiad, finished in 35th place.
