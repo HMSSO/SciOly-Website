@@ -1,3 +1,4 @@
 Hudson Middle School Science Olympiad Website
 ---
-WARNING: This product contains bad code known to the State of California to cause cancer and birth defects or other reproductive harm.
+<https://hmsscioly.js.org>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee3360ee-f2bf-4904-88fa-25342ccb44a6/deploy-status)](https://app.netlify.com/sites/scioly/deploys)
