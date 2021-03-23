@@ -1,3 +1,6 @@
+# add the locations of images for the slider here.
+# You can add or remove "- image:" lines.
+
 images: 
   - image: /uploads/slider/Logo.jpeg
   - image: /uploads/slider/ELG.jpeg
