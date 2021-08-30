@@ -5,6 +5,7 @@ layout: homepage
  {% include carousel.html height="50" unit="%" duration="7" %}
 <p><strong>Watch <a href="https://youtu.be/Y19-EAbRHOI">this video </a>for more information.</strong></p>
 <p><strong>Please contact Dr. Renna at <a href="mailto:jrenna@uakron.edu">jrenna@uakron.edu</a> if you have any questions.</strong></p>
+<p>We will have a welcome meeting for new and returning competitors TODAY, August 30th at 7 PM in the Middle School auditorium. If you can't attend in perdson, find the zoom link in your email.
 <h2>Latest News</h2>
 <hr />
 <script src="//rss.bloople.net/?url=https%3A%2F%2Fhmsscioly.js.org%2Ffeed.xml&detail=25&limit=2&showtitle=false&type=js"></script>
@@ -21,9 +22,9 @@ layout: homepage
 <hr />
 <p>We meet every Monday from 6:00 to 8:00 P.M. Currently, all meetings are done virtually. Build meetings have been cancelled except to record for competitions. Studying outside organized practices is encouraged.</p>
 
-<h2>2020 modifications</h2>
+<!--<h2>2020 modifications</h2>
 <hr>
-<p>This season, due to the novel Coronavirus, Science Olympiad has to make some changes. Competitions will be virtual, and build events will not occur at these competitions. However, we will still practice these events as part of a build team if the situation improves. In the list of events below, events with a strikethrough will not occur at competitions, and events with an asterisk have modifications. See the emailed PowerPoint for more information. </p>
+<p>This season, due to the novel Coronavirus, Science Olympiad has to make some changes. Competitions will be virtual, and build events will not occur at these competitions. However, we will still practice these events as part of a build team if the situation improves. In the list of events below, events with a strikethrough will not occur at competitions, and events with an asterisk have modifications. See the emailed PowerPoint for more information. </p>-->
 
 <h2>Events
  </h2>
@@ -36,7 +37,7 @@ layout: homepage
 <summary> Anatomy and Physiology
 </summary>
 <p>
-Participants will be assessed on their understanding of the anatomy and physiology for the human Skeletal, Muscular and Integumentary systems. This season, it will cover the Skeletal, Muscular, and Integumentary systems.
+Participants will be assessed on their understanding of the anatomy and physiology for the human body. This season, it will cover the Nervous, sense organs, and endocrine systems.
 </p>
 </details>
 <details>
