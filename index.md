@@ -17,9 +17,9 @@ layout: homepage
 <hr />
 <p>Thank you for your interest in the Hudson Middle School Science Olympiad program. If you missed it, the meeting on Monday, August 30 was <a href="https://drive.google.com/file/d/1pdODzjPgglT7pECEHtgrDhhHI1rYG24I/view" target="_blank">recorded here</a>. The slideshow that was shown is <a href="/uploads/2021-22_Intro.pdf" target="_blank">here.</a></p>
 <p>To join the team, you will need to try out. Please remember, this is meant to be a fun activity, not a stressful process.  Selection for the team will be based on a multitude of factors, including but not limited to availability of slots on the team, previous experience, commitment to the program, willingness for parental involvement, critical thinking ability, and performance on the tryout test.</p>
-<p>The tryout will be a test on part of the Bio-Process Lab event. The rules sheet is <a href="/uploads/BioProcess-rules.pdf" target="blank">here</a>. Study materials are linked to from that document, and students are allowed to bring one double sided sheet of notes.</p>
-<p>When you complete the tryout, you will recieve a paper with information about registration, parent information, event preferences, and a parent volenteer survey. Please complete this before Friday, September 17.</p>
+<p>The tryout will be a test on part of the Bio-Process Lab event. The rules sheet is <a href="/uploads/BioProcess-rules.pdf" target="blank">here</a>. Study materials are linked to from that document, and students are allowed to bring one double-sided sheet of notes.</p>
+<p>When you complete the tryout, you will receive a paper with information about registration, parent information, event preferences, and a parent volunteer survey. Please complete this before Friday, September 17.</p>
 <p>The travel team will be announced the week of September 27th, and the first practice will be October 4th.</p>
 <p>We look forward to seeing you soon.</p>
-<p><strong>Please contact Dr. Renna at <a href="mailto:jrenna@uakron.edu">jrenna@uakron.edu</a> if you have any questions.</strong></p>
+<p>Please contact Dr. Renna at <a href="mailto:jrenna@uakron.edu">jrenna@uakron.edu</a> if you have any questions.</p>
 {% include circle.html %}
