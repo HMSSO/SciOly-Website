@@ -4,7 +4,7 @@ layout: homepage
 ---
  {% include carousel.html height="50" unit="%" duration="7" %}
 <p><strong>Watch <a href="https://youtu.be/Y19-EAbRHOI">this video </a>for more information.</strong></p>
-<p><strong>Please contact Dr. Renna at <a href="mailto:jrenna@uakron.edu">jrenna@uakron.edu</a> if you have any questions.</strong></p>
+<p><strong>Please contact Dr. Renna at <a href="mailto:hmsscienceolympiad@hudson.k12.oh.us">hmsscienceolympiad@hudson.k12.oh.us</a> if you have any questions.</strong></p>
 <h2>Latest News</h2>
 <hr />
 <script src="//rss.bloople.net/?url=https%3A%2F%2Fhmsscioly.js.org%2Ffeed.xml&detail=25&limit=2&showtitle=false&type=js"></script>
