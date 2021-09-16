@@ -8,7 +8,7 @@ layout: homepage
 <p><strong>Please contact Dr. Renna at <a href="mailto:hmsscienceolympiad@hudson.k12.oh.us">hmsscienceolympiad@hudson.k12.oh.us</a> if you have any questions.</strong></p>
 <h2>Latest News</h2>
 <hr />
-<script src="//rss.bloople.net/?url=https%3A%2F%2Fhmsscioly.js.org%2Ffeed.xml&detail=25&limit=2&showtitle=false&type=js"></script>
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fhmsscioly.js.org%2Ffeed.xml&detail=25&limit=2&showtitle=false&type=js" defer></script>
 <noscript>
 <p>Your browser does not support JavaScript. Visit <a href="https://hmsscioly.js.org/blog">https://hmsscioly.js.org/blog</a> for news about HMS SciOly.</p>
 </noscript>
