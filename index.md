@@ -2,7 +2,7 @@
 title: Hudson Middle School Science Olympiad
 layout: homepage
 ---
-## Tryouts for the 2021-2022 Science Olympiad team have been completed. Results have been announced and sent in an email!
+## Elections for the 2021-2022 Captain and Co-Captain are being held. Check your email and vote by Friday the 29th for the Science Olympiad Team's new Captain and Co-Captain.
  {% include carousel.html height="50" unit="%" duration="7" %}
 <p><strong>Watch <a href="https://youtu.be/Y19-EAbRHOI">this video </a>for more information.</strong></p>
 <p><strong>Please contact Dr. Renna at <a href="mailto:hmsscienceolympiad@hudson.k12.oh.us">hmsscienceolympiad@hudson.k12.oh.us</a> if you have any questions.</strong></p>
