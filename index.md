@@ -71,6 +71,11 @@ Teams will design and build a Bridge (Structure) meeting requirement specified i
 In this event competitors must demonstrate knowledge and process skills needed to solve problems and answer questions regarding all types of waves and wave motion.</p>
 </details>
 
+ <details>
+  <summary> Crime Busters </summary>
+  <p>
+   Given a scenario, a collection of evidence, and possible suspects, students will perform a series of tests. The test results along with other evidence will be used to solve a crime.
+  </p></details>
 
 <details>
 <summary> Disease Detectives
