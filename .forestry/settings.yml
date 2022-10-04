@@ -15,6 +15,15 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: document
+  path: _data/carousel.yml
+  label: Slideshow Config
+  match: "**/*"
+- type: directory
+  path: uploads
+  label: Uploads
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
