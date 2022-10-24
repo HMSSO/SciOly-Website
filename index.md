@@ -1,32 +1,30 @@
 ---
 title: Hudson Middle School Science Olympiad
 layout: homepage
+
 ---
+{% include carousel.html height="50" unit="%" duration="7" %} 
 
- {% include carousel.html height="50" unit="%" duration="7" %}
-<p><strong>Watch <a href="https://youtu.be/Y19-EAbRHOI">this video </a>for more information.</strong></p>
-<p><strong>Please contact Dr. Renna at <a href="mailto:hmsscienceolympiad@hudson.k12.oh.us">hmsscienceolympiad@hudson.k12.oh.us</a> if you have any questions.</strong></p>
-<h2>Latest News</h2>
+**Watch** [**this video**](https://youtu.be/Y19-EAbRHOI "Science Olympiad video") **for more information.** 
+
+**Please contact Dr. Renna at** [**hmsscienceolympiad@hudson.k12.oh.us**](mailto:hmsscienceolympiad@hudson.k12.oh.us "hmsscienceolympiad@hudson.k12.oh.us") **if you have any questions.**
+
+##  Latest News
+
+ <hr /> <ul class="myposts"> {% for post in site.posts limit:2 %} <li><a href="{{ post.url }}">{{ post.title}}</a> <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span> </li> {% endfor %} </ul> <p style="text-align: right;"><a href="https://hmsscioly.js.org/blog"> See more news </a></p>
+
+What is Science Olympiad?
+
+-
+
 <hr />
-<ul class="myposts">
-{% for post in site.posts limit:2 %}
-    <li><a href="{{ post.url }}">{{ post.title}}</a>
-    <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </li>
-{% endfor %}
-</ul>
-<p style="text-align: right;"><a href="https://hmsscioly.js.org/blog"> See more news </a></p>
+Science Olympiad is an extracurricular activity where we learn about all forms of science. We compete against other teams, and the competitions are like track meets, with 23 different events. Events are in three major categories: build, test, and lab. Most events are done with a partner. Science Olympiad requires practice, determination, and preparation.
 
-<h2> What is Science Olympiad? </h2>
+What are the practices like?
+
+-
+
 <hr />
-<p> Science Olympiad is an extracurricular activity where we learn about all forms of science. We compete against other teams, and the competitions are like track meets, with 23 different events. Events are in three major categories: build, test, and lab. Most events are done with a partner. Science Olympiad requires practice, determination, and preparation. </p>
-
-<h2> What are the practices like? </h2>
-<hr />
-<p>We meet every Monday from 6:00 to 8:00 P.M. Currently, all meetings are done virtually.  Studying outside organized practices is encouraged. We have a build team that meets in person on Fridays.</p>
-
-
-
-
+We meet every Monday from 6:00 to 8:00 P.M. Currently, all meetings are done virtually.  Studying outside organized practices is encouraged. We have a build team that meets in person on Fridays.
 
 {% include circle.html %}
