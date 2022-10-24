@@ -2,7 +2,7 @@
 title: Hudson Middle School Science Olympiad
 layout: homepage
 ---
-## Elections for the 2021-2022 Science Olympiad Captian and Co-Captain are out! Congratulations to Aanya Patel for becoming captain and Elizabeth Chen for becoming co-captain!
+
  {% include carousel.html height="50" unit="%" duration="7" %}
 <p><strong>Watch <a href="https://youtu.be/Y19-EAbRHOI">this video </a>for more information.</strong></p>
 <p><strong>Please contact Dr. Renna at <a href="mailto:hmsscienceolympiad@hudson.k12.oh.us">hmsscienceolympiad@hudson.k12.oh.us</a> if you have any questions.</strong></p>
