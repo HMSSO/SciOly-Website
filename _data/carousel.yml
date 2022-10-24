@@ -1,9 +1,7 @@
-# add the locations of images for the slider here.
-# You can add or remove "- image:" lines. Upload images to the /images folder.
-
-images: 
-  - image: /uploads/slider/Logo.jpeg
-  - image: /uploads/slider/ELG.jpeg
-  - image: /uploads/slider/OHHUD.jpg
-  - image: /uploads/slider/Trophy.jpeg
-  - image: /uploads/slider/study.jpeg
+---
+images:
+- image: "/uploads/slider/Logo.jpeg"
+- image: "/uploads/slider/ELG.jpeg"
+- image: "/uploads/slider/OHHUD.jpg"
+- image: "/uploads/slider/Trophy.jpeg"
+- image: "/uploads/album/log.JPG"
