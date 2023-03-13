@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: scioly-website@metoki.anonaddy.me
-baseurl: ''
+baseurl: 
 url: https://hmsscioly.js.org
 markdown: kramdown
 github:
