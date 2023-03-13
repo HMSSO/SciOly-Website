@@ -1,9 +1,9 @@
 ---
 title: Westlake Invitational Results
+date: 2021-01-11 00:00:00 Z
 layout: post
-date: 2021-01-11
-
 ---
+
 What an amazing performance at Westlake this weekend!  Hudson Middle School brought home the hardware, winning **18** sets of medals, finishing **5th overall**, and placing **5th in the Super Team Rankings.**
 
 To put this performance into context, there were 32 schools and **61 total teams.**  Eight-time national champion Solon Middle School was edged out by Jeffery Trail (California) for first place.  Two-time national champion Daniel Wright Junior High (Illinois) finished in third, current defending National Champion Kennedy Middle School (California) finished in fourth place, Hudson Middle School finished in fifth place, and Timberline Middle School (Washington State) finished in sixth place.  In total there were teams from 9 different states, and 15 schools from Ohio.  Beachwood (9th), Granville (15th), Kentson (18th) place, Westlake (19th), Mentor Memorial (21st), Timberstone (23rd), Rocky River (33rd), Arbor Hills (36th), West Liberty (37th), McCord (40th), Mentor Shore (42nd), Copley-Fairlawn (44th), and Seton Catholic (46th).

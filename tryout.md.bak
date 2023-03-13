@@ -2,6 +2,7 @@
 title: Join the Hudson Middle School Science Olympiad team!
 layout: homepage
 ---
+
  {% include carousel.html height="50" unit="%" duration="7" %}
 
 

@@ -1,9 +1,9 @@
 ---
-layout: post 
-title: "Upcoming Team Meetings"
-date:   2020-12-07  
+title: Upcoming Team Meetings
+date: 2020-12-07 00:00:00 Z
+layout: post
 author: Dr. Renna and the NEOHSTEM Ambassadors
---- 
+---
 
 Hopefully you had an enjoyable weekend and, for those students that participated in the Northview Invitational, hopefully the experience was positive.  We are going to have a Zoom **team meeting this Friday night at 6pm** with all of the students, event mentors, and NEOHSTEM Ambassadors so that we can talk about aspects of the Invitational that went well, areas that were challenging, and then hopefully we can generate some tips and tricks to consider as we begin to prepare for the start of the season in January. [The zoom link was emailed to you.]
 

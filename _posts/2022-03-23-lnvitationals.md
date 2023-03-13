@@ -1,9 +1,9 @@
 ---
-layout: post
 title: The 2021-22 Invitational season
-date: 2022-03-23
-
+date: 2022-03-23 00:00:00 Z
+layout: post
 ---
+
 The invitational season this year came with a lot of success for the Hudson Middle School Science Olympiad team. We steadily improved as a team over the season, and are ready to begin our official competition at the Akron Regional on March 12th.
 We started the season at the Dodgen-Walton invitational with many of the top teams in the US, where we placed 28th, 37th, and 48th out of 65 teams.
 

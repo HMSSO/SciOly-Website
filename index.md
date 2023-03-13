@@ -1,8 +1,8 @@
 ---
 title: Hudson Middle School Science Olympiad
 layout: homepage
-
 ---
+
 {% include carousel.html height="50" unit="%" duration="7" %}
 
 **Watch** [**this video**](https://youtu.be/Y19-EAbRHOI "Science Olympiad video") **for more information.**

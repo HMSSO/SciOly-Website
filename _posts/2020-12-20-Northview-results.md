@@ -1,7 +1,7 @@
 ---
-layout: post 
-title:  "Northview results" 
-date:   2020-12-20 
+title: Northview results
+date: 2020-12-20 00:00:00 Z
+layout: post
 ---
 
 UPDATE 12/20/2020

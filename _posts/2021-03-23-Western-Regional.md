@@ -1,8 +1,9 @@
 ---
-layout: post 
-title:  "1st Place at the Ohio Western Regional!" 
-date:   2021-03-23 
+title: 1st Place at the Ohio Western Regional!
+date: 2021-03-23 00:00:00 Z
+layout: post
 ---
+
 What an exciting day for the Hudson Middle School Science Olympiad program!  We have won our first ever Regional Tournament!  There were 34 teams total in the Western Ohio Regional Tournament, and we finished in 1st and 5th place.  56 student medals from 27 events, including eight 1st place medals!
 
  
