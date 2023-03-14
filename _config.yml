@@ -16,10 +16,4 @@ github:
   branch: main
 include:
 - _redirects
-defaults:
-  -
-  scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+
