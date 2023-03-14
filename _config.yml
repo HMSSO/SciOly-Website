@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: scioly-website@metoki.anonaddy.me
+email: hmsscienceolympiad@hudson.k12.oh.us
 baseurl: 
 url: https://hmsscioly.js.org
 markdown: kramdown
