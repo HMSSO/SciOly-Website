@@ -1,5 +1,6 @@
+---
 title: HMS Science Olympiad
-
+timezone: UTC
 collections:
   posts:
     title: Posts
@@ -16,4 +17,3 @@ github:
   branch: main
 include:
 - _redirects
-
