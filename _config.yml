@@ -8,9 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  data:
-    title: data
-    output: true
 email: scioly-website@metoki.anonaddy.me
 baseurl: 
 url: https://hmsscioly.js.org
