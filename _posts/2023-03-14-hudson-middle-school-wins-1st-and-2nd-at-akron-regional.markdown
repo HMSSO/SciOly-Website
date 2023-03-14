@@ -4,7 +4,7 @@ date: 2023-03-14 21:36:00 Z
 layout: post
 ---
 
-Congratulations to the science olympiad team for winning 1st and 2nd place at the Akron Regionals! The team took home a whopping 22 first place metals and a number of second and third place metals.
+Congratulations to the science olympiad team for winning 1st and 2nd place at the Akron Regionals! The team completed at the Akron Regionals on Saturday March 11 and took home a whopping 22 first place medals and a number of second and third place medals.
 
 The team has been working hard since october, meeting up every Monday to pratice and study for their tests. And a shoutout to the build team that has been meeting up almost every day and working hard on their builds. And a big thank you to our coaches, Coach Renna and Coach Patel, as well as too all of the event mentors adults that have helped us get to where we are!
 
