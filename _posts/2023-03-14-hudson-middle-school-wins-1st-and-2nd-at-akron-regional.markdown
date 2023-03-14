@@ -4,9 +4,9 @@ date: 2023-03-14 21:36:00 Z
 layout: post
 ---
 
-Congratulations to the science olympiad team for winning 1st and 2nd place at the Akron Regionals! The team took home a whopping 22 first place metals and a number of second and third place metals. 
+Congratulations to the science olympiad team for winning 1st and 2nd place at the Akron Regionals! The team took home a whopping 22 first place metals and a number of second and third place metals.
 
-The team has been working hard since october, meeting up every Monday to pratice and study for their tests. And a shoutout to the build team that has been meeting up almost every day and working hard on their builds. And a big thank you to our coaches, Coach Renna and Coach Patel, as well as too all of the event mentors adults that have helped us get to where we are! 
+The team has been working hard since october, meeting up every Monday to pratice and study for their tests. And a shoutout to the build team that has been meeting up almost every day and working hard on their builds. And a big thank you to our coaches, Coach Renna and Coach Patel, as well as too all of the event mentors adults that have helped us get to where we are!
 
 1st place: Anatomy & Physiology (Emily Shott/Gemma Ward)
 
@@ -14,7 +14,7 @@ The team has been working hard since october, meeting up every Monday to pratice
 
 1st place: Bridge (Evan Lee/Maanav Patel)
 
-1st place: Can’t Judge a Powder (Romey Kim/Sherry Li)
+1st place: Can’t Judge a Powder (Romey Kim/Sherry Li) 
 
 1st place: Code Busters (Maanav Patel/Sherry Li/Steven Fodor)
 
