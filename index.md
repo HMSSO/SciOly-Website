@@ -1,6 +1,6 @@
 ---
 title: Hudson Middle School Science Olympiad
-position: 1
+position: 0
 layout: homepage
 ---
 
