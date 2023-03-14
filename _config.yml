@@ -2,7 +2,7 @@
 title: HMS Science Olympiad
 timezone: UTC
 collections:
-  _data:
+  data:
     title: Config
     output: false
   posts:
