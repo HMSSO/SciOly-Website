@@ -1,6 +1,6 @@
 ---
 title: Contact us
-position: 4
+position: 2
 description: Contact Dr. Renna, the head coach, or the webmaster.
 layout: default
 ---
