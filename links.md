@@ -1,6 +1,6 @@
 ---
 title: HMS SciOly Resources
-layout: page
+layout: default
 ---
 
     <br>
