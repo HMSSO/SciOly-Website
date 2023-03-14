@@ -10,7 +10,7 @@ The team has been working hard since october, meeting up every Monday to pratice
 
 1st place: Anatomy & Physiology (Emily Shott/Gemma Ward)
 
-1st place: Bio Process Lab (Emily Shott/Gemma Ward)
+1st place: Bio Process Lab (Emily Shott/Gemma Ward) 
 
 1st place: Bridge (Evan Lee/Maanav Patel)
 
