@@ -1,5 +1,6 @@
 ---
 title: Photos
+position: 0
 layout: default
 ---
 

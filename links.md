@@ -1,5 +1,6 @@
 ---
 title: HMS SciOly Resources
+position: 2
 layout: default
 ---
 
