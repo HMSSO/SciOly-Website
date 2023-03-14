@@ -4,29 +4,28 @@ position: 1
 layout: default
 ---
 
-    <br>
-    <h2> Links </h2>
-    <hr>
-    <br>
-    <ul>
-        <li><a href="https://soinc.org">Official Science Olympiad website </a> </li>
-        <li> <a href="https://scioly.org">SciOly wiki and forums</a> </li>
-        <li> <a href="https://drive.google.com/drive/u/0/folders/0AGi1g5VXlzGnUk9PVA">HMS Shared drive </a> </li>
-    </ul>
-    <br>
-    <br>
-    <br>
-    <h2>
-        iPad resources </h2>
-    <hr>
-    <p> The iPad does not come with a calculator, and the one in Self Service is full of ads. To install these, in Safari, press share, then Add to Home Screen. </p>
-    <ul>
-        <li> <a href="https://pwa.llumino.app">Four Function </a> </li>
-        <li> <a href="https://chrisdiana.dev/pwa-calculator/index.html">Four Function</a> </li>
-        <li> <a href="https://bhar.app/calculator/">Scientific</a></li>
-        <li> <a href="https://multicalculator.app">Scientific </a> </li>
-    </ul>
-    <p> Periodic Table </p>
-    <ul>
-        <li><a href="https://atom.horuslugo.com">Atom</a></li>
-    </ul>
+## Links
+***
+* [Official Science Olympiad website](https://soinc.org)
+
+* [SciOly wiki and forums](https://soinc.org)
+
+* [HMS Shared drive](https://soinc.org)
+
+## iPad resources
+
+---
+
+The iPad does not come with a calculator, and the one in Self Service is full of ads. To install these, in Safari, press share, then Add to Home Screen.
+
+* [Four Function](https://pwa.llumino.app)
+
+* [Four Function](https://chrisdiana.dev/pwa-calculator/index.html)
+
+* [Scientific](https://bhar.app/calculator)
+
+* [Scientific](https://multicalculator.app)
+
+Periodic Table
+
+* [Atom](https://atom.horuslugo.com)
