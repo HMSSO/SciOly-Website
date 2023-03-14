@@ -14,7 +14,7 @@ layout: homepage
 
 <hr /> <ul class="myposts"> {% for post in site.posts limit:2 %} <li><a href="{{ post.url }}">{{ post.title}}</a> <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span> </li> {% endfor %} </ul> <p style="text-align: right;"><a href="https://hmsscioly.js.org/blog"> See more news </a></p>
 
-## What is Science Olympiad? Test
+## What is Science Olympiad?
 
 ---
 
