@@ -24,6 +24,8 @@ Science Olympiad is an extracurricular activity where we learn about all forms o
 
 ---
 
-We meet every Monday from 6:00 to 8:20 P.M. Our practices are split up into two blocks and take place at our school.Studying outside organized practices is encouraged. We have a build team that meets multiple times a week.
+We meet every Monday from 6:00 to 8:20 P.M. Our practices are split up into two blocks and take place at our school. Studying outside organized practices is encouraged. We have a build team that meets multiple times a week.
+
+[Click here to submit a practice test.](https://forms.gle/BscFKvVbwjv4cc267)
 
 {% include circle.html %}
