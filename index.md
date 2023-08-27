@@ -20,6 +20,4 @@ Tryouts will be on Monday, September 11th.
 
 Please contact Dr. Renna at [hmsscienceolympiad@hudson.k12.oh.us](mailto:hmsscienceolympiad@hudson.k12.oh.us "hmsscienceolympiad@hudson.k12.oh.us") if you are interested in joining our team!
 
-## 
-
 {% include circle.html %}
